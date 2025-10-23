@@ -1,6 +1,6 @@
 # Session 1 — Big Data and Business Intelligence
 
-This repository contains the materials for **Session X** of *Course Y*.  
+This repository contains the materials for **Session 1** of Big Data and Business Intelligence.  
 - Slides: see [`slides/`](./slides/) folder  
 - Notebooks: see [`notebooks/`](./notebooks/) folder 
 ---
